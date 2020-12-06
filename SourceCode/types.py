@@ -24,6 +24,8 @@ class TypeInt32(Data):
     def serialize(self):
         return struct.pack('i',self.data)
 
+
+
     def __str__(self):
         return str(self.data)
 
@@ -75,6 +77,8 @@ def unserialize(data,type,length = None):
         return TypeChar(data).data
     if type == "INT32":
         return TypeInt32(data).data
+
+    return "Not a valid data"
 
 if __name__ == '__main__':
     a = TypeInt32(2442)
