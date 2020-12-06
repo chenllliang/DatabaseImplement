@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="342eb609-1522-4369-b081-4782bcd8f762" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/SourceCode/table.py" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tableTest.bin" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/tableTest.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607251024820</updated>
       <workItem from="1607251025979" duration="81000" />
-      <workItem from="1607251110199" duration="2493000" />
+      <workItem from="1607251110199" duration="2692000" />
     </task>
     <servers />
   </component>
@@ -78,24 +76,24 @@
       <screen x="35" y="23" width="1645" height="1027" />
     </state>
     <state x="314" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/35.23.1645.1027@35.23.1645.1027" timestamp="1607251041694" />
-    <state width="1488" height="264" key="GridCell.Tab.0.bottom" timestamp="1607253574965">
+    <state width="1488" height="264" key="GridCell.Tab.0.bottom" timestamp="1607253996122">
       <screen x="35" y="23" width="1645" height="1027" />
     </state>
-    <state width="1488" height="264" key="GridCell.Tab.0.bottom/35.23.1645.1027@35.23.1645.1027" timestamp="1607253574965" />
-    <state width="1488" height="264" key="GridCell.Tab.0.center" timestamp="1607253574964">
+    <state width="1488" height="264" key="GridCell.Tab.0.bottom/35.23.1645.1027@35.23.1645.1027" timestamp="1607253996122" />
+    <state width="1488" height="264" key="GridCell.Tab.0.center" timestamp="1607253996121">
       <screen x="35" y="23" width="1645" height="1027" />
     </state>
-    <state width="1488" height="264" key="GridCell.Tab.0.center/35.23.1645.1027@35.23.1645.1027" timestamp="1607253574964" />
-    <state width="1488" height="264" key="GridCell.Tab.0.left" timestamp="1607253574964">
+    <state width="1488" height="264" key="GridCell.Tab.0.center/35.23.1645.1027@35.23.1645.1027" timestamp="1607253996121" />
+    <state width="1488" height="264" key="GridCell.Tab.0.left" timestamp="1607253996120">
       <screen x="35" y="23" width="1645" height="1027" />
     </state>
-    <state width="1488" height="264" key="GridCell.Tab.0.left/35.23.1645.1027@35.23.1645.1027" timestamp="1607253574964" />
-    <state width="1488" height="264" key="GridCell.Tab.0.right" timestamp="1607253574965">
+    <state width="1488" height="264" key="GridCell.Tab.0.left/35.23.1645.1027@35.23.1645.1027" timestamp="1607253996120" />
+    <state width="1488" height="264" key="GridCell.Tab.0.right" timestamp="1607253996121">
       <screen x="35" y="23" width="1645" height="1027" />
     </state>
-    <state width="1488" height="264" key="GridCell.Tab.0.right/35.23.1645.1027@35.23.1645.1027" timestamp="1607253574965" />
+    <state width="1488" height="264" key="GridCell.Tab.0.right/35.23.1645.1027@35.23.1645.1027" timestamp="1607253996121" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DatabaseImplement$table.coverage" NAME="table Coverage Results" MODIFIED="1607253574957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SourceCode" />
+    <SUITE FILE_PATH="coverage/DatabaseImplement$table.coverage" NAME="table Coverage Results" MODIFIED="1607253996113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SourceCode" />
   </component>
 </project>

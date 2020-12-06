@@ -59,7 +59,7 @@ class Record(Data):
                 ret.record[j] = unserialize(data[8+schema_length+dataStartPlace:
                                                  8+schema_length+dataStartPlace+dataLength],schema[j],dataLength)
             print(ret.record)
-
+        return ret
 
 
 if __name__ == '__main__':
@@ -70,3 +70,5 @@ if __name__ == '__main__':
 
     with open("../TestCase/tableTest.bin","rb") as f:
         r = Record.unserialize(f.read())
+
+    print(r.record)
