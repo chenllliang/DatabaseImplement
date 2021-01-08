@@ -23,6 +23,21 @@ def createTable(database: str, name: str):
 def selectFrom(colNames:list,database,table):
     pass
 
+def join(table1:str,table2:str):
+    pass
+
+def update(table:str,id:int,record):
+    pass
+
+def delete(table:str,id:int):
+    pass
+
+def add(table:str,record):
+    pass
+
+
+
+
 if __name__ == '__main__':
     createDatabase(
         "Bank"
