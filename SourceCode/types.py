@@ -24,7 +24,15 @@ class TypeInt32(Data):
     def serialize(self):
         return struct.pack('i',self.data)
 
-
+    @classmethod
+    def check(cls,data):
+        if not isinstance(data,int):
+            return False
+        elif data>32657:
+            return False
+        elif data<-32658:
+            return False
+        return True
 
     def __str__(self):
         return str(self.data)
